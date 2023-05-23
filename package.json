@@ -1,0 +1,15 @@
+{
+  "name": "node-dynamo",
+  "version": "1.0.0",
+  "description": "this is a test nodejs backend to connect with aws dynamodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ravi shankar",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1382.0",
+    "dotenv": "^16.0.3"
+  }
+}
